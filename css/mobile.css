@@ -47,19 +47,27 @@
 }
 @media screen and (max-width: 400px){
     .Navbar {
-        width: 30%;
+        height: 250px;
+    }
+    .logo{
+        width:50%;
     }
     .Navbar h1{
         font-size: 10px;
     }
+    .text .linija{
+        font-size: 50px;
+    }
     .Navbar .linija h1{
-        font-size: 10px;
+        font-size: 5px;
+        width: 5%;
     }
     .contact .form #send{
         width: 30%;
     }
     .row .box{
         width: 300px;
+        margin-left: -20px;
     }
     .hero{
         width: 110%;
@@ -70,19 +78,49 @@
     .service{
         width: 110%;
     }
+    .service-content .page{
+        width: 75%;
+    }
     .about{
         width: 110%;
+    }
+    .moja img{
+        margin-left: -40px;
     }
     .skills{
         width: 110%;
     }
+    .skilovi h2{
+        margin-left: -50px;
+    }
     .projects{
         width: 110%;
+    }
+    .projects h2{
+        margin-left: -40px;
+    }
+    .projects .right h2{
+        margin-left: 50px;
+    }
+    .all-items .item .left .right{
+        margin-top: -145px;
+    }
+    .all-items .item{
+        display: flex;
+        flex-direction: column;
     }
     .contact{
         width: 110%;
     }
     .blok{
         width: 110%;
+    }
+    .kontaktirati h2{
+        margin-left: -30px;
+        font-size: 60px;
+    }
+    .blok1{
+        margin-left: -50px;
+
     }
 }

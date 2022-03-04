@@ -30,6 +30,7 @@ html, body{
     background-position: center;
 }
 .Navbar{
+    background-color: rgba(red,green,blue,alpha);
     width: 90%;
     height: 130px;
     display: flex;

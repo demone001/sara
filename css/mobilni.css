@@ -66,11 +66,19 @@
 }
 @media screen and (max-width: 320px){
     .hero{
-        width: 200%;
+        width: 100%;
     }
     .Navbar{
-        height: 250px;
-        width: 45%;
+        width: 100%;
+        height: 200px;
+    }
+    .logo{
+        width: 100px;
+    }
+    .Navbar ul{
+        text-align:left;
+        display: flex;
+        flex-direction: column;
     }
     h1{
         display: flex;
@@ -91,7 +99,8 @@
         width: 200%;
     }
     .about img {
-        margin-left: -285px;
+        margin-left: -300px;
+        width: 270px;
     }
     .text-box{
         margin-left: -200px;
@@ -139,7 +148,7 @@
         font-size: 60px;
     }
     .contact .form{
-        margin-left: -315px;
+        margin-left: -300px;
     }
     .kontaktirati h2{
         margin-left: 7px;
@@ -147,10 +156,7 @@
     .blok{
         width: 200%;
     }
-    .blok h4{
-        margin-left: -320px;
-    }
-    .blok a{
+    .blok1{
         margin-left: -280px;
     }
 }

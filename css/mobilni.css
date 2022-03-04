@@ -94,16 +94,17 @@
     .service-content .page{
         margin-right: 75px;
         width: 50%;
+        height:40%;
     }
     .about{
         width: 200%;
     }
     .about img {
         margin-left: -300px;
-        width: 270px;
+        width: 200px;
     }
     .text-box{
-        margin-left: -200px;
+        margin-left: -300px;
     }
     .skills{
         width: 200%;
@@ -148,7 +149,7 @@
         font-size: 60px;
     }
     .contact .form{
-        margin-left: -300px;
+        margin-left: -400px;
     }
     .kontaktirati h2{
         margin-left: 7px;
@@ -159,7 +160,4 @@
     .blok1{
         margin-left: -280px;
     }
-}
-@media screen and (max-width: 380px){
-
 }

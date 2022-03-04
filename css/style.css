@@ -30,17 +30,14 @@ html, body{
     background-position: center;
 }
 .Navbar{
-    background-color: rgba(red,green,blue,alpha);
-    width: 90%;
+    width: 100%;
     height: 130px;
     display: flex;
     align-items: center;
     position: fixed;
     justify-content: space-between;
-    background-color: transparent; 
-    padding-top: 0;
-    padding-left: 3%;
-    padding-right: 8%;
+    background-color: rgba(255, 209, 220,0.7);
+    z-index: 10;
 }
 .logo{
     display: flex;

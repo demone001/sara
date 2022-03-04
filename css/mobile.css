@@ -3,7 +3,7 @@
         width: 100%;
     }
     .Navbar{
-        width: 80%;
+        width: 100%;
     }
     .service{
         width: 100%;
@@ -47,10 +47,13 @@
 }
 @media screen and (max-width: 400px){
     .Navbar {
-        height: 250px;
+        width: 50%;
     }
     .logo{
         width:50%;
+    }
+    .Navbar ul{
+        column-count: 2;
     }
     .Navbar h1{
         font-size: 10px;
@@ -71,9 +74,6 @@
     }
     .hero{
         width: 110%;
-    }
-    .Navbar{
-        width: 50%;
     }
     .service{
         width: 110%;

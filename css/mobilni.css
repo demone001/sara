@@ -1,0 +1,146 @@
+@media screen and (max-width: 301px){
+    .hero{
+        width: 110%;
+    }
+    .Navbar{
+        width: 80%;
+    }
+    .service{
+        width: 110%;
+    }
+    .service h2{
+        font-size: 45px;
+        margin-right: 30px;
+    }
+    .service-content .page{
+        width: 70%;
+    }
+    .about{
+        width: 110%;
+    }
+    .about img{
+        width: 200px;
+    }
+    .skills{
+        width: 110%;
+    }
+    .skilovi h2{
+        font-size: 55px;
+        margin-right: 55px;
+    }
+    .row .box{
+        width: 190px;
+        margin-right: 55px;
+        height: 300px;
+    }
+    .projects{
+        width: 110%;
+    }
+    .projects h2{
+        font-size: 55px;
+        margin-right: 50px;
+    }
+    .projects .item{
+        margin-bottom: 5rem;
+        width: 400px;
+    }
+    .projects .item .right{
+        margin-left: -400px;
+    }
+    .contact{
+        width: 110%;
+    }
+    .kontaktirati h2{
+        font-size: 50px;
+        margin-right: 30px;
+    }
+    .contact .form #send{
+        width: 20%;
+    }
+    .blok{
+        width: 110%;
+    }
+}
+@media screen and (max-width: 320px){
+    .hero{
+        width: 200%;
+    }
+    .Navbar{
+        width: 45%;
+    }
+    h1{
+        display: flex;
+        flex-direction: column;
+    }
+    .service{
+        width: 150%;
+    }
+    .service h2{
+        margin-left: -150px;
+        font-size: 50px;
+    }
+    .service-content .page{
+        margin-right: 75px;
+        width: 50%;
+    }
+    .about{
+        width: 200%;
+    }
+    .about img {
+        margin-left: -285px;
+    }
+    .text-box{
+        margin-left: -200px;
+    }
+    .skills{
+        width: 200%;
+    }
+    .skills .skilovi{
+        margin-left: -350px;
+    }
+    .row .box{
+        margin-left: -300px;
+        width: 40%;
+    }
+    .projects{
+        width: 200%;
+    }
+    .projects h2{
+        margin-left: -320px;
+        font-size: 55px;
+    }
+    .projects .item{
+        margin-bottom: 10rem;
+        display: flex;
+        flex-direction: column;
+        margin-left: -86px;
+    }
+    .projects .item .right{
+        margin-left: 100px;
+    }
+    .projects .right h2{
+        margin-left: 100px;
+        font-size: 30px;
+    }
+    .contact{
+        width: 200%;
+    }
+    .contact .kontaktirati{
+        margin-left: -320px;
+    }
+    .kontaktirati h2{
+        font-size: 60px;
+    }
+    .contact .form{
+        margin-left: -315px;
+    }
+    .blok{
+        width: 200%;
+    }
+    .blok h4{
+        margin-left: -320px;
+    }
+    .blok a{
+        margin-left: -280px;
+    }
+}

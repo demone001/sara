@@ -179,7 +179,7 @@ h5 {
     width: 500px;
 }
 .text-box{
-    width: 550px;
+    width: 100%;
 }
 .moja {
     width: 1400px;
@@ -195,7 +195,7 @@ h5 {
     text-transform: capitalize;
     margin-bottom: 50px;
     margin-left: 20px;
-    font-family:'Lobster', cursive;
+    white-space: nowrap;
 }
 span{
     color: #90ee90;
@@ -207,15 +207,14 @@ span{
     margin-bottom: 50px;
     margin-right: 20px;
     margin-left: 10px;
-    font-family: 'Bebas Neue', cursive;
 }
 .text-box p{
+    margin-left: 10px;
     color: white;
     letter-spacing: 1px;
     line-height: 28px;
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 45px;
-    font-family:'Bebas Neue', cursive;
 }
 /*Skill section*/
 .skills{

@@ -1,0 +1,88 @@
+@media screen and (max-width: 497px){
+    .hero{
+        width: 100%;
+    }
+    .Navbar{
+        width: 80%;
+    }
+    .service{
+        width: 100%;
+    }
+    .about{
+        width: 100%;
+    }
+    .about .moja{
+        display: flex;
+        flex-direction: column;
+    }
+    .text-box{
+        max-width: 300%;
+    }
+    .skills{
+        width: 100%;
+        margin-right: 200px;
+    }
+    .row .box{
+        margin-right: 55px;
+    }
+    .row .box p{
+        text-align: justify;
+    }
+    .projects{
+        width: 100%;
+    }
+    .contact{
+        width: 100%;
+    }
+    .blok{
+        width: 100%;
+    }
+    .skilovi h2{
+        font-size: 65px;
+        margin-left: 0px;
+    }
+    .text-box h3{
+        width: 100px;
+    }
+}
+@media screen and (max-width: 400px){
+    .Navbar {
+        width: 30%;
+    }
+    .Navbar h1{
+        font-size: 10px;
+    }
+    .Navbar .linija h1{
+        font-size: 10px;
+    }
+    .contact .form #send{
+        width: 30%;
+    }
+    .row .box{
+        width: 300px;
+    }
+    .hero{
+        width: 110%;
+    }
+    .Navbar{
+        width: 50%;
+    }
+    .service{
+        width: 110%;
+    }
+    .about{
+        width: 110%;
+    }
+    .skills{
+        width: 110%;
+    }
+    .projects{
+        width: 110%;
+    }
+    .contact{
+        width: 110%;
+    }
+    .blok{
+        width: 110%;
+    }
+}

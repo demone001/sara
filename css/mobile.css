@@ -114,6 +114,12 @@
         margin-left: -40px;
         width: 200px;
     }
+    .moja .text-box{
+        width: 200%;
+    }
+    .text-box p{
+        margin-left: 0px;
+    }
     .text-box h3{
         font-size: 40px;
         margin-left: 5px;

@@ -88,7 +88,7 @@
         width: 150%;
     }
     .service h2{
-        margin-left: -150px;
+        margin-left: -130px;
         font-size: 35px;
     }
     .service-content > .page{
@@ -178,7 +178,7 @@
         width: 100% !important;
         margin-left: 80px;
         height: 350px;
-        margin-right: -100px;
+        margin-right: -50px;
     }
     .projects .right h2{
         margin-left: 100px;
@@ -207,9 +207,12 @@
         width: 400px;
     }
     .projects .item:nth-child(even) .left {
-        margin-left: 110px;
+        margin-left: 100px;
         margin-right: 10px;
     }   
+    .projects .item:nth-child(even) .right {
+        margin-left: -20px;
+    }    
     .right-item .right{
         margin-top: -50px;
     } 
@@ -223,7 +226,7 @@
         font-size: 35px;
     }
     .contact .form{
-        margin-left: -320px;
+        margin-left: -295px;
     }
     .kontaktirati h2{
         margin-right: 2px;

@@ -217,7 +217,7 @@
         margin-right: 10px;
     } 
     .projects .item:nth-child(even) .right {
-        margin-left: 100px;
+        margin-left: 160px;
     }      
     .right-item .right{
         margin-top: -50px;
@@ -236,14 +236,14 @@
         font-size: 40px;
     }
     .input{
-        margin-left: -50px;
+        margin-left: -30px;
         width: 180px;
     }
     .contact .form #send{
-        margin-left: -10%;
+        margin-left: -20px;
     }
     #msg{
-        margin-left: -50px;
+        margin-left: -30px;
         width: 200px;
     }
     .blok1{

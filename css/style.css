@@ -317,7 +317,6 @@ span{
     display: flex;
     height: 600px;
     width: 400px;
-    overflow: hidden;
     border-radius: 12px;
 }
 .projects .item .right:hover{

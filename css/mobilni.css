@@ -171,14 +171,34 @@
     }
     .projects .item .right{
         margin-left: 100px;
-        padding: 2rem 1rem;
+        padding: 0rem 1rem;
+        width: 200px;
+    }
+    .projects .item .left .img{
+        width: 100% !important;
+        margin-left: 80px;
+        height: 350px;
+        margin-right: -100px;
     }
     .projects .right h2{
         margin-left: 100px;
         font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .left-item .right{
+        margin-top: -50px;
+    }
+    .left-item .right h2{
+        margin-left: 10px;
     }
     .left-item .left{
-        width: 50%;
+        max-width: 100%;
+    }
+    .right-item{
+        width: 75% !important;
+    }
+    .right-item .left{
+        width: 100% !important;
     }
     .item-right{
         margin-left: 200px;
@@ -186,6 +206,13 @@
     .left-item{
         width: 400px;
     }
+    .projects .item:nth-child(even) .left {
+        margin-left: 110px;
+        margin-right: 10px;
+    }   
+    .right-item .right{
+        margin-top: -50px;
+    } 
     .contact{
         width: 200%;
     }

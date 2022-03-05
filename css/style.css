@@ -304,7 +304,7 @@ span{
     background-color: var(--body-bg);
     padding: 5rem 2rem;
     border-radius: 12px;
-    box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px pink;
     z-index: 2;
 }
 .projects .item:nth-child(even) .right{
@@ -319,7 +319,6 @@ span{
     width: 400px;
     overflow: hidden;
     border-radius: 12px;
-    box-shadow: 0px 0px 20px pink;
 }
 .projects .item .right:hover{
     transform: scale(1.1)
